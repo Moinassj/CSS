@@ -1,0 +1,20 @@
+.estilo1{
+	color: red;
+}
+.letragrande{
+	font-size: 40px;
+}
+div{
+	width: 200px;
+	height: 200px;
+	background: purple;
+	margin: 20px;
+	border: 2px solid yellow;
+}
+#morado{
+	width: 200px;
+	height: 200px;
+	background: purple;
+	margin: 20px;
+	border: 2spx solid black;
+}
